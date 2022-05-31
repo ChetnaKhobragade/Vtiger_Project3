@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T06:27:28Z" name="Default suite" finished-at="2022-05-31T06:27:55Z" duration-ms="26754">
+    <groups>
+      <group name="regression">
+        <method signature="CreateOrganizationWithIndustyAndTypeTest.createOrganizationWithIndustyAndTypeTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" name="createOrganizationWithIndustyAndTypeTest" class="com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2022-05-31T06:27:28Z" name="Default test" finished-at="2022-05-31T06:27:55Z" duration-ms="26754">
+      <class name="com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest">
+        <test-method is-config="true" signature="beforeSuiteTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:28Z" name="beforeSuiteTest" finished-at="2022-05-31T06:27:28Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteTest -->
+        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:28Z" name="beforeClassTest" finished-at="2022-05-31T06:27:35Z" duration-ms="6483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTest -->
+        <test-method is-config="true" signature="beforeMethod1Test()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:35Z" name="beforeMethod1Test" finished-at="2022-05-31T06:27:39Z" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1Test -->
+        <test-method signature="createOrganizationWithIndustyAndTypeTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:40Z" name="createOrganizationWithIndustyAndTypeTest" finished-at="2022-05-31T06:27:53Z" duration-ms="13150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustyAndTypeTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:53Z" name="afterMethod" finished-at="2022-05-31T06:27:55Z" duration-ms="2033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClassTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:55Z" name="afterClassTest" finished-at="2022-05-31T06:27:55Z" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTest -->
+        <test-method is-config="true" signature="afterSuiteTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest@5fbdc49b]" started-at="2022-05-31T06:27:55Z" name="afterSuiteTest" finished-at="2022-05-31T06:27:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteTest -->
+      </class> <!-- com.vtiger.organizationTest.CreateOrganizationWithIndustyAndTypeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
