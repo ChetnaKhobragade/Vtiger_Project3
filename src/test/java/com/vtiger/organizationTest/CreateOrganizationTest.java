@@ -16,7 +16,7 @@ public class CreateOrganizationTest extends BaseClass {
 	@Test(groups = "sanity")
 	public void createOrganizationTest() throws EncryptedDocumentException, IOException {
 		JavaLibrary javaLibrary = new JavaLibrary();
-
+		System.out.println("chetna Khobragade");
 		String organizationName = excelLibrary.getDataFromExcel("organization", 2, 1) + randomNumber;
 
 		OrganizationPage op = new OrganizationPage(driver);
